@@ -1,0 +1,19 @@
+! name: Health resources validated by Care Quality
+! description: Restricts search results to validated medical and public health domains.
+! public: false
+! author: Abi Global Health
+
+$discard
+$boost=3,site=nih.gov
+$boost=3,site=www.humanitas.it
+$boost=3,site=www.iss.it
+$boost=3,site=www.salute.gov.it
+$boost=3,site=www.paho.org
+$boost=3,site=medlineplus.gov
+$boost=3,site=www.inserm.fr
+$boost=3,site=www.doctissimo.fr
+$boost=3,site=www.vidal.fr
+$boost=3,site=www.mayoclinic.org
+$boost=3,site=www.drugs.com
+$boost=3,site=www.nhs.uk
+/zh-hans/$discard,site=www.mayoclinic.org
