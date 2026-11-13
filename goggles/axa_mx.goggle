@@ -2,6 +2,7 @@
 ! description: Restricts search results to AXA MX blog pages
 ! public: false
 ! author: Abi Global Health
+! avatar: #0096D6
 
 $discard
 /b/$boost=3,site=axa.mx
