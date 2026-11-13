@@ -1,7 +1,8 @@
-! name: Health resources validated by Care Quality
+! name: Curated health resources
 ! description: Restricts search results to validated medical and public health domains.
 ! public: false
 ! author: Abi Global Health
+! avatar: #0096D6
 
 $discard
 $boost=3,site=nih.gov

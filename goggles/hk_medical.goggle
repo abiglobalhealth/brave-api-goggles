@@ -2,6 +2,7 @@
 ! description: Restricts search results to validated medical and public health domains in Hong Kong.
 ! public: false
 ! author: Abi Global Health
+! avatar: #0096D6
 
 $discard
 /tc/healthtopics/$boost=3,site=chp.gov.hk

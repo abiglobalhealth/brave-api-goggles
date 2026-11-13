@@ -2,6 +2,7 @@
 ! description: Searches the entire web while discarding results from generic community platforms.
 ! public: false
 ! author: Abi Global Health
+! avatar: #0096D6
 
 $discard,site=quora.com
 $discard,site=reddit.com
