@@ -10,11 +10,10 @@ This repository hosts goggle files for use with the Brave Search API. Goggles al
 
 ## Goggles
 
-### `all_web.goggle`
-Searches the entire web while filtering out results from generic community platforms (Quora, Reddit). Use for cleaner, more focused results when searching for reliable information.
-
-### `cq_curated_global.goggle`
-Curated results optimized for community quality and global relevance. Filters results based on source quality and relevance metrics.
+| Goggle | Description |
+|--------|-------------|
+| `all_web.goggle` | Searches the entire web while filtering out results from generic community platforms (Quora, Reddit). Use for cleaner, more focused results when searching for reliable information. |
+| `cq_curated_global.goggle` | Curated results optimized for community quality and global relevance. Filters results based on source quality and relevance metrics. |
 
 ## What are Goggles?
 

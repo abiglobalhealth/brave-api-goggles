@@ -1,0 +1,7 @@
+! name: ILH public information
+! description: Restricts search results to ILH public pages
+! public: false
+! author: Abi Global Health
+
+$discard
+$boost=3,site=irishlifehealth.ie
