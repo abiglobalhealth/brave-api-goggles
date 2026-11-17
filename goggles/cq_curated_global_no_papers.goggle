@@ -1,0 +1,22 @@
+! name: Validated Care Quality - no papers
+! description: Restricts search results to validated medical and public health domains, excluding research papers (PubMed / PMC).
+! public: false
+! author: Abi Global Health
+! avatar: #0096D6
+
+$discard
+$boost=3,site=nih.gov
+$boost=3,site=humanitas.it
+$boost=3,site=iss.it
+$boost=3,site=salute.gov.it
+$boost=3,site=paho.org
+$boost=3,site=inserm.fr
+$boost=3,site=doctissimo.fr
+$boost=3,site=vidal.fr
+$boost=3,site=mayoclinic.org
+$boost=3,site=drugs.com
+$boost=3,site=nhs.uk
+/pmc/articles/$discard,site=ncbi.nlm.nih.gov
+$discard,site=pubmed.ncbi.nlm.nih.gov
+$discard,site=pmc.ncbi.nlm.nih.gov
+/zh-hans/$discard,site=mayoclinic.org
