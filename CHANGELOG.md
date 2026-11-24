@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/abiglobalhealth/brave-api-goggles/compare/v1.0.0...v1.1.0) (2026-11-20)
+
+
+### Features
+
+* added CQ validated with papers excluded (equivalent to CSE ID b1ced4f5418a84489) ([#5](https://github.com/abiglobalhealth/brave-api-goggles/issues/5)) ([7405a7e](https://github.com/abiglobalhealth/brave-api-goggles/commit/7405a7e0159c1798c409e0d21c97edf00fda1be8))
+
 ## 1.0.0 (2026-11-13)
 
 
