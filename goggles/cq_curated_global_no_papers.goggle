@@ -20,3 +20,4 @@ $boost=3,site=nhs.uk
 $discard,site=pubmed.ncbi.nlm.nih.gov
 $discard,site=pmc.ncbi.nlm.nih.gov
 /zh-hans/$discard,site=mayoclinic.org
+/common-health-questions/medicines/can-i-take-controlled-medicines-abroad/$discard,site=nhs.uk

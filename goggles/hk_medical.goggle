@@ -7,3 +7,5 @@
 $discard
 /tc/healthtopics/$boost=3,site=chp.gov.hk
 /tc/residents/health/$boost=3,site=gov.hk
+/sc/healthtopics/$boost=3,site=chp.gov.hk
+/sc/residents/health/$boost=3,site=gov.hk

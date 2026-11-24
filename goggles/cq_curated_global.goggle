@@ -18,3 +18,4 @@ $boost=3,site=mayoclinic.org
 $boost=3,site=drugs.com
 $boost=3,site=nhs.uk
 /zh-hans/$discard,site=mayoclinic.org
+/common-health-questions/medicines/can-i-take-controlled-medicines-abroad/$discard,site=nhs.uk
