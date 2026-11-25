@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/abiglobalhealth/brave-api-goggles/compare/v1.1.0...v1.2.0) (2026-11-25)
+
+
+### Features
+
+* discard citation blacklist / add simplified ZH to hk_medical ([#7](https://github.com/abiglobalhealth/brave-api-goggles/issues/7)) ([75df2ab](https://github.com/abiglobalhealth/brave-api-goggles/commit/75df2ab49025d3826ee0a16d3a3e99458c918a03))
+
 ## [1.1.0](https://github.com/abiglobalhealth/brave-api-goggles/compare/v1.0.0...v1.1.0) (2026-11-20)
 
 
